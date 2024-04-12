@@ -14,6 +14,7 @@ Simple script leveraging Google's YouTube v3 API to update a YouTube thumbnail (
   - Copy, or move, this json file to where the script lives and make sure it is named 'client.json'
   - Add your account you use for YouTube as a test account (IE: your email)
 2. Install Python 3.10+ if not already installed on your system
+  - pip3 install -r requirements.txt
 3. Use pip (pip3) to install dependencies noted in the requirements.txt file
 
 <br><br>
