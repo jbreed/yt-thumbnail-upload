@@ -27,5 +27,5 @@ Simple script leveraging Google's YouTube v3 API to update a YouTube thumbnail (
    - From terminal, or cmd, navigate to the directory in which the script resides
    - Run it (python3 upload-thumbnail.py)
    - Browser should open and you need to login to the YouTube account that controls that youtube channel. The prompts should give whatever information of your project you create in the google cloud console. If not published and logging in using your email you added as a test user, read carefully the buttons to make sure to continue and properly login.
-   - After login, the script will move to a user prompt asking what the video ID is. If you open the video in a browser window, the URL will look something like the follow: https://www.youtube.com/shorts/tb-1-Wi-ewA, in which the Video ID is tb-1-Wi-ewA
+   - After login, the script will move to a user prompt asking what the video ID is. If you open the video in a browser window, the URL will look something like the follow: https://www.youtube.com/shorts/tb-1-Wi-uwA, in which the Video ID is tb-1-Wi-uwA
    - Next prompt is the filename of the image you want to upload as the thumbnail. Type in the filename (IE: myimage.jpg)
